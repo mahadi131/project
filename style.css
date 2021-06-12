@@ -28,7 +28,7 @@ ul li a:hover{
 
 .banner{
     color: white;
-    background-image: url(/img/background.jpg);
+    background-image: url(https://github.com/mahadi131/project/blob/main/background.jpg);
     background-size: cover;
     height: 400px
 }
